@@ -1,10 +1,10 @@
 import smtplib
 from email.mime.text import MIMEText
-msg_from='2500372180@qq.com'n'g
+msg_from='2805315558@qq.com'
 passwd='zoycvzwfbbajddgb'
 msg_to='57820048@qq.com'
 
-subject="2018144130杨志昌的第一次作业"
+subject="2018144148周伟的第一次作业"
 content="内网手机wifi：192.168.137.1  外网手机wifi:10.28.87.208  内网手机流量：172.69.33.98  外网手机流量：106.61.134.39"
 msg=MIMEText(content)
 msg['Subject'] = subject
